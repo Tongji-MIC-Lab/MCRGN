@@ -44,4 +44,4 @@ The proposed MCRGN framework is evaluated on three visual relationship datasets,
 
 Please cite the following paper if you find this work useful:
 
-Jian Zhu and Hanli Wang, Multi-scale Conditional Relationship Graph Network for Referring Relationships in Images, IEEE Transactions on Cognitive and Developmental Systems, accepted, 2021.
+Jian Zhu and Hanli Wang, Multi-scale Conditional Relationship Graph Network for Referring Relationships in Images, IEEE Transactions on Cognitive and Developmental Systems, vol. 14, no. 2, pp. 752-760, June. 2022.
